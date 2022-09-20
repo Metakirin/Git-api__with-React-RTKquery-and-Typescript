@@ -11,4 +11,4 @@
 ##
 
    ***Addon techs:***
-   - Tailwind
+   - [Tailwind CSS](https://tailwindcss.com/)
